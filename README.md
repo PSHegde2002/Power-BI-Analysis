@@ -15,8 +15,7 @@ This repository contains a Power BI report titled **"Power BI Analysis"**. The `
 - Drill-through and tooltip pages (if applicable).
 
 ##  Data Sources
-
-*(Please update with actual data source information)*  
+  
 The data is sourced from internal/external datasets. It includes:
 
 - Transactional or financial data
