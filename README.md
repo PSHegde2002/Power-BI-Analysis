@@ -12,7 +12,7 @@ This repository contains a Power BI report titled **"Power BI Analysis"**. The `
 - Data cleaning and transformation using Power Query.
 - KPIs and DAX measures for key metrics.
 - Slicers for dynamic filtering.
-- Drill-through and tooltip pages (if applicable).
+- Drill-through and tooltip pages.
 
 ##  Data Sources
   
